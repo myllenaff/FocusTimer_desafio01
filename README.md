@@ -17,4 +17,4 @@ Controlador de tempo com sons
 ## ❤ Contato:
 
 myllenaff@gmail.com
-# Projeto Focus Timer
+# Projeto Focus Timer!
